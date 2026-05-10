@@ -1,29 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vipul Deva</h1>
 
 <h3 align="center">
-Senior Generative AI / AI/ML Engineer • Agentic AI Architect • Enterprise LLM Platforms
+Senior Generative AI / AI/ML Engineer • Agentic AI  • Enterprise LLM Platforms
 </h3>
 
 <p align="center">
-Building production-grade AI systems powered by LLMs, Agentic AI, RAG, distributed architectures, and cloud-native platforms.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=000000&center=true&vCenter=true&width=1100&lines=Enterprise+Agentic+AI+Architect;LLM+%7C+RAG+%7C+GraphRAG+%7C+Multi-Agent+Systems;Cloud-Native+AI+Platforms+on+GCP+AWS+Azure;Building+Scalable+Production-Grade+AI+Systems" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Senior+Generative+AI+Engineer;Enterprise+Agentic+AI+Architect;LLM+%7C+RAG+%7C+GraphRAG+%7C+Multi-Agent+Systems;Cloud-Native+AI+Platforms+on+GCP+AWS+Azure;Building+Scalable+Production-Grade+AI+Systems" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/devavipul15">
-    <img src="https://komarev.com/ghpvc/?username=devavipul15&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-
-  <a href="https://github.com/devavipul15?tab=followers">
-    <img src="https://img.shields.io/github/followers/devavipul15?label=Followers&style=social" />
-  </a>
-
-  <a href="https://github.com/devavipul15">
-    <img src="https://img.shields.io/github/stars/devavipul15?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-  </a>
 </p>
 
 <p align="center">
@@ -185,25 +168,6 @@ Healthcare • Banking • Retail • Government • Enterprise Analytics
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devavipul15&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devavipul15&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devavipul15&theme=tokyonight"/>
-</p>
-
----
 
 # ⚡ Philosophy
 
@@ -211,7 +175,4 @@ Building scalable, reliable, and production-grade AI systems powered by LLMs, Ag
 
 ---
 
-# 🐍 Contribution Graph
 
-![snake gif](https://github.com/devavipul15/devavipul15/blob/output/github-contribution-grid-snake.svg)
-```
