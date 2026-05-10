@@ -1,105 +1,217 @@
 <h1 align="center">Hi 👋, I'm Vipul Deva</h1>
 
 <h3 align="center">
-Senior Generative AI / AI/ML Engineer | Agentic AI | LLM Architect
+Senior Generative AI / AI/ML Engineer • Agentic AI Architect • Enterprise LLM Platforms
 </h3>
 
+<p align="center">
+Building production-grade AI systems powered by LLMs, Agentic AI, RAG, distributed architectures, and cloud-native platforms.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Senior+Generative+AI+Engineer;Enterprise+Agentic+AI+Architect;LLM+%7C+RAG+%7C+GraphRAG+%7C+Multi-Agent+Systems;Cloud-Native+AI+Platforms+on+GCP+AWS+Azure;Building+Scalable+Production-Grade+AI+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/devavipul15">
+    <img src="https://komarev.com/ghpvc/?username=devavipul15&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+
+  <a href="https://github.com/devavipul15?tab=followers">
+    <img src="https://img.shields.io/github/followers/devavipul15?label=Followers&style=social" />
+  </a>
+
+  <a href="https://github.com/devavipul15">
+    <img src="https://img.shields.io/github/stars/devavipul15?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  </a>
+</p>
+
+<p align="center">
+
+<a href="mailto:devavipul1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vipul-deva58/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/devavipul15">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Building enterprise-scale Generative AI and Agentic AI systems
-- 🌱 Working on LLM orchestration, RAG pipelines, and multi-agent architectures
-- ☁️ Experienced across GCP, AWS, and Azure cloud ecosystems
-- 🧠 Specialized in LangChain, LangGraph, FastAPI, Vertex AI, and scalable AI infrastructure
-- ⚡ Passionate about production-grade AI systems, distributed architectures, and intelligent automation
+I’m a Senior Generative AI / AI/ML Engineer specializing in enterprise-scale LLM platforms, Agentic AI systems, Retrieval-Augmented Generation (RAG), GraphRAG, and cloud-native AI infrastructure.
 
----
+I design scalable AI ecosystems combining multi-agent orchestration, distributed systems, observability, intelligent automation, and production-grade deployment strategies across healthcare, banking, retail, and enterprise domains.
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+- 🔭 Building enterprise-scale Agentic AI platforms
+- 🧠 Designing scalable RAG and GraphRAG architectures
+- ⚡ Developing production-grade LLM systems and AI infrastructure
+- ☁️ Experienced across GCP, AWS, and Azure ecosystems
+- 🏗️ Architecting distributed AI pipelines and event-driven systems
+- 🚀 Passionate about AI reliability, observability, and intelligent automation
 
 ---
 
-### Generative AI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
+# 🛠️ Core Tech Stack
+
+## Languages & Frameworks
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
 
 ---
 
-### Cloud & Infrastructure
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 🤖 Generative AI & LLM Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphRAG-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMOps-orange?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🚀 Enterprise Expertise
+# ☁️ Cloud & Infrastructure
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 Data, Vector Search & Observability
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Enterprise Expertise
 
 ✔️ Agentic AI Systems  
-✔️ Retrieval-Augmented Generation (RAG)  
 ✔️ Multi-Agent Workflows  
+✔️ Retrieval-Augmented Generation (RAG)  
+✔️ GraphRAG Architectures  
 ✔️ LLM Orchestration  
-✔️ Healthcare AI Platforms  
-✔️ Fraud Detection & Risk Analytics  
+✔️ AI Gateway Architectures  
+✔️ AI Reliability & Observability  
 ✔️ Distributed AI Systems  
-✔️ Cloud-Native AI Infrastructure  
 ✔️ Real-Time AI Pipelines  
+✔️ Cloud-Native AI Infrastructure  
 ✔️ Semantic Search & Vector Databases  
+✔️ Production AI Platforms  
 
 ---
 
-## 📌 Current Focus
+# 📈 Impact Highlights
+
+- 🚀 Improved clinical decision efficiency by 40% using enterprise Agentic AI workflows
+- ⚡ Enhanced fraud detection accuracy by 25% through real-time AI/ML pipelines
+- 📊 Improved forecasting accuracy by 20% using scalable distributed analytics systems
+- 🧠 Built enterprise-grade RAG and LLM platforms supporting intelligent automation
+- ☁️ Designed scalable cloud-native AI ecosystems using GCP, AWS, and Azure
+
+---
+
+# 🏗️ Current Focus Areas
 
 - Enterprise AI Platforms
 - Multi-Agent AI Systems
-- LLMOps & AI Observability
 - GraphRAG Architectures
-- Production AI Reliability
+- LLMOps & Observability
+- AI Reliability Engineering
 - Intelligent Workflow Automation
+- Responsible AI & Governance
+- Distributed AI Infrastructure
 
 ---
 
-## 🏗️ Architecture Interests
+# 🧩 Architecture Interests
 
 - Event-Driven AI Systems
-- Scalable RAG Infrastructure
 - AI Gateway Architectures
-- Vector Search Optimization
 - Multi-Model Routing
 - Distributed AI Pipelines
+- Scalable Vector Search
+- Enterprise RAG Infrastructure
+- Agent Planning & Memory Systems
+- Production AI Reliability Patterns
 
 ---
 
-## 🏢 Domains
+# 🏢 Domains
 
 Healthcare • Banking • Retail • Government • Enterprise Analytics
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devavipul15&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devavipul15&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devavipul15&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devavipul15&layout=compact&theme=tokyonight"/>
 
-## 🤝 Connect With Me
-
-- 📧 Email: devavipul1@gmail.com
-- 💼 LinkedIn: Add your LinkedIn URL here
+</p>
 
 ---
 
-⭐ Building scalable enterprise AI systems powered by LLMs, Agentic AI, and cloud-native architectures.
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devavipul15&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ Philosophy
+
+Building scalable, reliable, and production-grade AI systems powered by LLMs, Agentic AI, distributed architectures, and intelligent automation for real-world enterprise impact.
+
+---
+
+# 🐍 Contribution Graph
+
+![snake gif](https://github.com/devavipul15/devavipul15/blob/output/github-contribution-grid-snake.svg)
+```
